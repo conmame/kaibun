@@ -7,6 +7,9 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Add kaibun method to String Class. Kaibun is palindrome in English.}
   gem.summary       = %q{Add kaibun method to String Class.}
   gem.homepage      = "https://github.com/conmame/kaibun"
+  gem.extra_rdoc_files = [
+    "README.md"
+  ]
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
