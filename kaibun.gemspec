@@ -4,7 +4,7 @@ require File.expand_path('../lib/kaibun/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["con_mame"]
   gem.email         = ["con_mame@conma.me"]
-  gem.description   = %q{Add kaibun method to String Class. Kaibun is palindrome in English.}
+  gem.description   = %q{Add kaibun method to String Class. Kaibun means palindrome in Japanese.}
   gem.summary       = %q{Add kaibun method to String Class.}
   gem.homepage      = "https://github.com/conmame/kaibun"
   gem.extra_rdoc_files = [
