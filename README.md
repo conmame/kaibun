@@ -1,6 +1,6 @@
 # Kaibun [![Build Status](https://secure.travis-ci.org/conmame/kaibun.png)](http://travis-ci.org/conmame/kaibun)
 
-Add kaibun method to String Class. Kaibun is palindrome in English.
+Add kaibun method to String Class. Kaibun means palindrome in Japanese.
 
 ## Installation
 Require ruby version >= 1.9
