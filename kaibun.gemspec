@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.name          = "kaibun"
   gem.require_paths = ["lib"]
   gem.version       = Kaibun::VERSION
-  gem.date          = %q{2012-05-17}
+  gem.date          = %q{2012-05-18}
   gem.rdoc_options  = ["--charset=UTF-8"]
   gem.required_ruby_version = '>= 1.9.0'
   gem.add_development_dependency('rake', '>=0.9.2.2')
